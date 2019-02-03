@@ -29,7 +29,7 @@
 | banner    | Belirttiğiniz yazıyı "banner" haline getirir       |    args splitlemeniz lazım | client.komut.banner(mesaj) |
 | bitcoin   | Bitcoin piyasası hakkında bilgi verir      | bir gereksinim yok | client.komut.bitcoin()|
 | emojiyazı | mesajınızı "emoji" formatına çevirir        |    args splitlemeniz lazım | client.komut.emojiyazı(mesaj) |
-| fakemesaj | Etiketlediğiniz kullanıcı belirtilen mesajı atmış gibi gösterilir        |    args splitlemeniz lazım  | client.komut.fakemesaj(kişi, mesaj) |
+| fakemesaj | Etiketlediğiniz kullanıcı belirtilen mesajı atmış gibi gösterilir|    args splitlemeniz lazım  | client.komut.fakemesaj(kişi, mesaj) |
 | oynat     | Link veya şarkı ismi ile şarkı oynatır       |    args splitlemeniz lazım       | client.müzik.oynat(link/isim) |
 | radyo     | Bir radyo kanalı oynatır      |  args splitlemeniz lazım | client.müzik.radyo(kanal) |
 #TASLAKLAR
