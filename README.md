@@ -5,12 +5,13 @@
 - Yapmanız gereken yalnızca `const hazirbot = require('hazirbot')` kodu ile modülümüzü tanıtıp, `npm install github:barbarbar338/hazirbot` komutu ile modülü indirmek!
 ​
 - Modülün kullanıldığı örnek bir bot olarak [Pinkie Pie](https://discordapp.com/oauth2/authorize?client_id=442380790542630912&scope=bot&permissions=2146958591) botunu sunucunuza davet edebilirsiniz!
+​
 - Modülün çalışma mantığını anlamanız için [Glitch üzerinden remix](https://glitch.com/edit/#!/remix/hazirbot-modul-taslak)'leyerek bu test botunu da kullanabilirsiniz!
 # KURULUM
 ​
-- `npm init` komutu ile `package.json` dosyasını oluşturun
-- [Discord Developer](https://discordapp.com/developers/applications/) sayfasından botunuzu oluşturun, `token` ve `client id` değerlerini bir yere kaydedin
-- Bot klasörünüzün ana dizinine `bot.js | app.js | index.js | server.js` adlı bot dosyanızı oluşturun ve içerisine verdiğimiz örnek taslağı atın
+- `npm init` komutu ile `package.json` dosyasını oluşturun.
+- [Discord Developer](https://discordapp.com/developers/applications/) sayfasından botunuzu oluşturun, `token` ve `client id` değerlerini bir yere kaydedin.
+- Bot klasörünüzün ana dizinine `bot.js | app.js | index.js | server.js` adlı bot dosyanızı oluşturun ve içerisine verdiğimiz örnek taslağı atın.
 - Bot klasörünüzin ana dizinine `komutlar` klasörü oluşturun. içerisine komutlarımızı atacağız.
 - Komutlar klasörünün içerisine `komut_adı.js` adlı dosya oluşturup içerisine verdiğimiz komut taslağını atın.
 - Bot dosyanızın içerisindeki bilgileri doldurduğunuzda botunuz otomatik olarak çevrimiçi hale gelir!
@@ -38,7 +39,7 @@
 ​
 # TASLAKLAR
 ​
-- `bot.js | app.js | index.js | server.js` taslağı
+- `bot.js | app.js | index.js | server.js` taslağı =>
 ```js
 const hazirbot = require("hazirbot");
 const client = new hazirbot.HazirPie({
@@ -65,7 +66,7 @@ client.on("message", message => {
 client.giris();
 ```
 ​
-- `komutlar/komut_adı.js` taslağı
+- `komutlar/komut_adı.js` taslağı =>
 ```js
 const Discord = require('discord.js')
 const hazirbot = require("hazirbot")
