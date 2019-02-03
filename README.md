@@ -16,20 +16,20 @@
 ​
 # KOMUTLAR VE KULLANIMI
 ​
-**ascii**       =>  client.komut.ascii(mesaj) 
-**hesapla**     =>  client.komut.hesapla(işlem)
-**eightBall**   =>  client.komut.eightBall(soru) 
-**temizle**     =>  client.komut.temzile(miktar)
-**çeviri**      =>  client.komut.çeviri(dil, mesaj)
-**atasözü**     =>  client.komut.atasözü()|
-**yaz**         =>  client.komut.yaz(mesaj) 
-**afk**         =>  client.komut.afk(sebep) 
-**banner**      =>  client.komut.banner(mesaj)
-**bitcoin**     =>  client.komut.bitcoin()
-**emojiyazı**   =>  client.komut.emojiyazı(mesaj)
-**fakemesaj**   =>  client.komut.fakemesaj(kişi, mesaj)
-**oynat**       =>  client.müzik.oynat(link/isim)
-**radyo**       =>  client.müzik.radyo(kanal)
+- **ascii**       =>  client.komut.ascii(mesaj) 
+- **hesapla**     =>  client.komut.hesapla(işlem)
+- **eightBall**   =>  client.komut.eightBall(soru) 
+- **temizle**     =>  client.komut.temzile(miktar)
+- **çeviri**      =>  client.komut.çeviri(dil, mesaj)
+- **atasözü**     =>  client.komut.atasözü()|
+- **yaz**         =>  client.komut.yaz(mesaj) 
+- **afk**         =>  client.komut.afk(sebep) 
+- **banner**      =>  client.komut.banner(mesaj)
+- **bitcoin**     =>  client.komut.bitcoin()
+- **emojiyazı**   =>  client.komut.emojiyazı(mesaj)
+- **fakemesaj**   =>  client.komut.fakemesaj(kişi, mesaj)
+- **oynat**       =>  client.müzik.oynat(link/isim)
+- **radyo**       =>  client.müzik.radyo(kanal)
 
 ​
 # TASLAKLAR
