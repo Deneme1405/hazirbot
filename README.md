@@ -5,6 +5,7 @@
 - Yapmanız gereken yalnızca `const hazirbot = require('hazirbot')` kodu ile modülümüzü tanıtıp, `npm install github:barbarbar338/hazirbot` komutu ile modülü indirmek!
 ​
 - Modülün kullanıldığı örnek bir bot olarak [Pinkie Pie](https://discordapp.com/oauth2/authorize?client_id=442380790542630912&scope=bot&permissions=2146958591) botunu sunucunuza davet edebilirsiniz!
+- Modülün çalışma mantığını anlamanız için [Glitch üzerinden remix](https://glitch.com/edit/#!/remix/hazirbot-modul-taslak)'leyerek bu test botunu da kullanabilirsiniz!
 # KURULUM
 ​
 - `npm init` komutu ile `package.json` dosyasını oluşturun
