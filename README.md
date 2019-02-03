@@ -16,13 +16,20 @@
 ​
 # KOMUTLAR VE KULLANIMI
 ​
-- **ascii**       =>  client.komut.ascii(mesaj)             **radyo**       =>  client.müzik.radyo(kanal)
-- **hesapla**     =>  client.komut.hesapla(işlem)           **oynat**       =>  client.müzik.oynat(link/isim)
-- **eightBall**   =>  client.komut.eightBall(soru)          **fakemesaj**   =>  client.komut.fakemesaj(kişi, mesaj)
-- **temizle**     =>  client.komut.temzile(miktar)          **emojiyazı**   =>  client.komut.emojiyazı(mesaj)
-- **çeviri**      =>  client.komut.çeviri(dil, mesaj)       **bitcoin**     =>  client.komut.bitcoin()
-- **atasözü**     =>  client.komut.atasözü()                **banner**      =>  client.komut.banner(mesaj)
-- **yaz**         =>  client.komut.yaz(mesaj)               **afk**         =>  client.komut.afk(sebep) 
+- **ascii**       =>  client.komut.ascii(mesaj)             
+- **radyo**       =>  client.müzik.radyo(kanal)
+- **hesapla**     =>  client.komut.hesapla(işlem)           
+- **oynat**       =>  client.müzik.oynat(link/isim)
+- **eightBall**   =>  client.komut.eightBall(soru)          
+- **fakemesaj**   =>  client.komut.fakemesaj(kişi, mesaj)
+- **temizle**     =>  client.komut.temzile(miktar)          
+- **emojiyazı**   =>  client.komut.emojiyazı(mesaj)
+- **çeviri**      =>  client.komut.çeviri(dil, mesaj)       
+- **bitcoin**     =>  client.komut.bitcoin()
+- **atasözü**     =>  client.komut.atasözü()                
+- **banner**      =>  client.komut.banner(mesaj)
+- **yaz**         =>  client.komut.yaz(mesaj)               
+- **afk**         =>  client.komut.afk(sebep) 
 ​
 # TASLAKLAR
 ​
