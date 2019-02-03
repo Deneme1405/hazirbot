@@ -2,7 +2,7 @@
 ​
 - Bu modül sayesinde en kompleksi komutları bile yalnızca bir satır kod ile kullanabileceksiniz!
 ​
-- Yapmanız gereken yalnızca `const hazirbot = require('hazirbot')` kodu ile modülümüzü tanıtıp, `npm install github:barbarbar338/hazirbot` komutu ile modülü indirmek
+- Yapmanız gereken yalnızca `const hazirbot = require('hazirbot')` kodu ile modülümüzü tanıtıp, `npm install github:barbarbar338/hazirbot` komutu ile modülü indirmek!
 ​
 - Modülün kullanıldığı örnek bir bot olarak [Pinkie Pie](https://discordapp.com/oauth2/authorize?client_id=442380790542630912&scope=bot&permissions=2146958591) botunu sunucunuza davet edebilirsiniz!
 # KURULUM
