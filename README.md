@@ -30,6 +30,11 @@
 - **banner**      =>  client.komut.banner(mesaj)
 - **yaz**         =>  client.komut.yaz(mesaj)               
 - **afk**         =>  client.komut.afk(sebep) 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ​
 # TASLAKLAR
 ​
