@@ -57,5 +57,16 @@ client.giris();
 ```js
 const Discord = require('discord.js')
 const hazirbot = require("hazirbot")
-​
-module.exports.run = async (client, message, args) => {
+
+module.exports.run = async (bot, message, args) => {
+  bot.komut.komut_adı(<argüman>)
+  //veya
+  bot.müzik.komut_adı(<argüman>)
+}
+
+module.exports.help = {
+    name: " ", //komut adı
+    description: "  ", //açıklaması
+    usage: "    " //kullanımı
+}
+```
