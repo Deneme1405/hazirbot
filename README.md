@@ -34,7 +34,7 @@
 | radyo     | Bir radyo kanalı oynatır      |  args splitlemeniz lazım | client.müzik.radyo(kanal) |
 
 ​
-#TASLAKLAR
+# TASLAKLAR
 ​
 - `bot.js | app.js | index.js | server.js` taslağı
 ```js
