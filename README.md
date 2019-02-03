@@ -32,7 +32,10 @@
 | fakemesaj | Etiketlediğiniz kullanıcı belirtilen mesajı atmış gibi gösterilir|    args splitlemeniz lazım  | client.komut.fakemesaj(kişi, mesaj) |
 | oynat     | Link veya şarkı ismi ile şarkı oynatır       |    args splitlemeniz lazım       | client.müzik.oynat(link/isim) |
 | radyo     | Bir radyo kanalı oynatır      |  args splitlemeniz lazım | client.müzik.radyo(kanal) |
+
+​
 #TASLAKLAR
+​
 - `bot.js | app.js | index.js | server.js` taslağı
 ```js
 const hazirbot = require("hazirbot");
