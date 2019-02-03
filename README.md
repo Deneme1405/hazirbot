@@ -1,9 +1,3 @@
-modul-test
-Show
-
-README.md
-
-hazirbot
 # HAZIRBOT MODÜLÜ
 ​
 - Bu modül sayesinde en kompleksi komutları bile yalnızca bir satır kod ile kullanabileceksiniz!
