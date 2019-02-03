@@ -14,24 +14,22 @@
 - Komutlar klasörünün içerisine `komut_adı.js` adlı dosya oluşturup içerisine verdiğimiz komut taslağını atın.
 - Bot dosyanızın içerisindeki bilgileri doldurduğunuzda botunuz otomatik olarak çevrimiçi hale gelir!
 ​
-# KOMUTLAR VE ÖZELLİKLERİ
+# KOMUTLAR VE KULLANIMI
 ​
-| KOMUT ADI | AÇIKLAMA        | GEREKSİNİM | KULLANIM|
-| :-------- |:---------------:|  :-----:|-------:|
-| ascii     | Mesajınızı "ascii" formatına çevirir| args splitlemeniz lazım | client.komut.ascii(mesaj) |
-| hesapla   | Belirttiğiniz matematik işlemini yapar        |   args splitlemeniz lazım | client.komut.hesapla(işlem)|
-| eightBall | Sihirli 8ball'a sorunuzu sorar      |    args splitlemeniz lazım |client.komut.eightBall(soru) |
-| temizle   | Belirttiğiniz miktar kadar mesaj siler       |    args splitlemeniz lazım | client.komut.temzile(miktar) | 
-| çeviri    | Mesajınızı belirttiğiniz dile çevirir       |    args splitlemeniz lazım | client.komut.çeviri(dil, mesaj) |
-| atasözü   | Rastgele bir atasözü söyler        |    bir gereksinim yok | client.komut.atasözü()|
-| yaz       | Mesajınızı bota yazdırır        |    args splitlemeniz lazım | client.komut.yaz(mesaj) |
-| afk       | Biri sizi etiketlediğinde bot cevap verir       |    args splitlemeniz lazım | client.komut.afk(sebep) |
-| banner    | Belirttiğiniz yazıyı "banner" haline getirir       |    args splitlemeniz lazım | client.komut.banner(mesaj) |
-| bitcoin   | Bitcoin piyasası hakkında bilgi verir      | bir gereksinim yok | client.komut.bitcoin()|
-| emojiyazı | mesajınızı "emoji" formatına çevirir        |    args splitlemeniz lazım | client.komut.emojiyazı(mesaj) |
-| fakemesaj | Etiketlediğiniz kullanıcı belirtilen mesajı atmış gibi gösterilir|    args splitlemeniz lazım  | client.komut.fakemesaj(kişi, mesaj) |
-| oynat     | Link veya şarkı ismi ile şarkı oynatır       |    args splitlemeniz lazım       | client.müzik.oynat(link/isim) |
-| radyo     | Bir radyo kanalı oynatır      |  args splitlemeniz lazım | client.müzik.radyo(kanal) |
+**ascii**       =>  client.komut.ascii(mesaj) 
+**hesapla**     =>  client.komut.hesapla(işlem)
+**eightBall**   =>  client.komut.eightBall(soru) 
+**temizle**     =>  client.komut.temzile(miktar)
+**çeviri**      =>  client.komut.çeviri(dil, mesaj)
+**atasözü**     =>  client.komut.atasözü()|
+**yaz**         =>  client.komut.yaz(mesaj) 
+**afk**         =>  client.komut.afk(sebep) 
+**banner**      =>  client.komut.banner(mesaj)
+**bitcoin**     =>  client.komut.bitcoin()
+**emojiyazı**   =>  client.komut.emojiyazı(mesaj)
+**fakemesaj**   =>  client.komut.fakemesaj(kişi, mesaj)
+**oynat**       =>  client.müzik.oynat(link/isim)
+**radyo**       =>  client.müzik.radyo(kanal)
 
 ​
 # TASLAKLAR
